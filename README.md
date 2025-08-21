@@ -21,7 +21,7 @@ Currently learning how to build websites, design user interfaces, and understand
 - **Languages**: Python, JavaScript, C++, C#
 - **Libraries**: Pandas, NumPy, TensorFlow
 - **Design**: Figma, Blender
-- **Dev Tools**: Git, GitHub, VS Code
+- **Dev Tools**: Git, GitHub, VS Code, JetBrain
 
 ### 🎯 Goals
 - Build interactive websites and apps
