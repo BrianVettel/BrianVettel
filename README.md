@@ -1,7 +1,7 @@
 
 ## Hi There ![Waving GIF](https://emojipedia.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif)
 
-I'm **Brian**, a beginner web app design, beginner Full Stack Software Engineer,Data engineer and IT Enthuastic based in Indonesia 🇩🇪  
+I'm **Brian**, a beginner web app design, beginner Full Stack Software Engineer,Data engineer and IT Enthuastic based in Indonesia 🇮🇩  
 Currently learning how to build websites, design user interfaces, and understand how code works behind the scenes.
 
 ---
