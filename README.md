@@ -18,7 +18,7 @@ Currently learning how to build websites, design user interfaces, and understand
 - Database Structure NoSQL
 
 ### 🛠️ Tools & Tech I'm Learning
-- **Languages**: Python, JavaScript, C++, C#
+- **Languages**: Python, JavaScript, C++, C#, Golang, Rust
 - **Libraries**: Pandas, NumPy, TensorFlow
 - **Design**: Figma, Blender
 - **Dev Tools**: Git, GitHub, VS Code, JetBrain
