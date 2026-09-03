@@ -20,7 +20,7 @@ Currently learning how to build websites, design user interfaces, and understand
 ### 🛠️ Tools & Tech I'm Learning
 - **Languages**: Python, JavaScript, C++, C#, Golang, Rust
 - **Libraries**: Pandas, NumPy, TensorFlow
-- **Design**: Figma, Blender
+- **Design & 3D Animations**: Figma, Blender
 - **Dev Tools**: Git, GitHub, VS Code, JetBrain
 
 ### 🎯 Goals
