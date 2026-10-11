@@ -1,8 +1,8 @@
 
 ## Hi There ![Waving GIF](https://emojipedia.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif)
 
-I'm **Brian**, a beginner web app design, beginner Full Stack Software Engineer,Data engineer and IT Enthuastic based in Indonesia 🇮🇩  
-Currently learning how to build websites, design user interfaces, and understand how code works behind the scenes.
+I'm **Brian**, a beginner web app design, beginner Full Stack Software Engineer,Data engineer, AI Engineer and AI Enthuastic based in Indonesia 🇮🇩  
+Currently learning how to build websites with integrated AI like chatbot LLM, design user interfaces, and understand how code works behind the scenes.
 
 ---
 
@@ -14,7 +14,7 @@ Currently learning how to build websites, design user interfaces, and understand
 - Data Science with Python
 - Machine Learning & Deep Learning
 - 3D Modeling Animation
-- Mobile Apps with Kotlin & Flutter
+- Mobile Apps with Kotlin & Dart (Flutter)
 - Database Structure NoSQL
 
 ### 🛠️ Tools & Tech I'm Learning
