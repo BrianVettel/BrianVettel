@@ -28,6 +28,7 @@ Currently learning how to build websites with integrated AI like chatbot LLM, de
 - Create stunning 3D visuals and animations
 - Analyze data to uncover insights
 - Train my first ML model (and actually understand it 😅)
+- Can Create a Digital and AI based solution for UMKM 
 - Collaborate with other learners and developers
 
 ---
